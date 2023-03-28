@@ -33,3 +33,6 @@ C:\Users\pc\Desktop\Научка\Viola-Jones\Viola-Jones\bin\Debug\OpenCvSharp.E
 C:\Users\pc\Desktop\Научка\Viola-Jones\Viola-Jones\bin\Debug\OpenCvSharp.Extensions.xml
 C:\Users\pc\Desktop\Научка\Viola-Jones\Viola-Jones\bin\Debug\OpenCvSharp.UserInterface.pdb
 C:\Users\pc\Desktop\Научка\Viola-Jones\Viola-Jones\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\pc\Desktop\Научка\Viola-Jones\Viola-Jones\obj\Debug\Viola_Jones.SettingsForm.resources
+C:\Users\pc\Desktop\Научка\Viola-Jones\Viola-Jones\obj\Debug\Viola_Jones.MultiProcesForm.resources
+C:\Users\pc\Desktop\Научка\Viola-Jones\Viola-Jones\obj\Debug\Viola_Jones.ErrorForm.resources
